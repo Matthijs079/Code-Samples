@@ -1,5 +1,5 @@
 # Grunt
 
-This is a Gruntfile that I made here you can compile Sass an minify the CSS.
+This is a Gruntfile that I made, that you can use to compile Sass and minify the CSS.
 
-Also There is a Watch as default task, so if you type grunt the watch goes to work and if you change somthing it automatically compiled Sass and minifies CSS.
+Also, There is a default task that executes the watch task, when you change the Sass files it automatically compiled Sass and minifies CSS.
