@@ -1,0 +1,27 @@
+{
+  "name": "wireframe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-cssnano": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthijs079/Wireframe.git"
+  },
+  "author": "matthy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matthijs079/Wireframe/issues"
+  },
+  "homepage": "https://github.com/Matthijs079/Wireframe#readme"
+}
